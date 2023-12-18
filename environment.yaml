@@ -6,5 +6,5 @@ dependencies:
   - jupyterlab
   - scikit-learn
   - Report.ipynb
-  
+prefix: /Users/zougina/anaconda3/envs/dstoolbox
  
