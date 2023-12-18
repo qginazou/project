@@ -1,0 +1,10 @@
+name: project-env
+channels:
+  - defaults
+dependencies:
+  - python<=3.10
+  - jupyterlab
+  - scikit-learn
+  - Report.ipynb
+prefix: /Users/zougina/anaconda3/envs/dstoolbox
+ 
